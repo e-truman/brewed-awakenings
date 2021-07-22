@@ -1,0 +1,1 @@
+In this exercise, I practiced debugging and creating event listeners.
